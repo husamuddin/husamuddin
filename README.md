@@ -7,7 +7,7 @@ This is Husamuddin Hamad!
 ✉️ [husamuddin.hamad@gmail.com](mailto:husamuddin.hamad@gmail.com)<br />
 
 
-I'm a DevOps/Cloud Platform Engineer with experience crafting scalable, secure, and reliable cloud systems.
+I'm a DevOps/Cloud Platform Engineer and Backend Developer with experience crafting scalable, secure, and reliable cloud systems.
 I come from a software development background, and now I get to blend that with passion for cloud-native tech, DevOps, and automation. I’m all about building stuff that works smoothly and makes life easier!
 
 ## 🔧 What I Do
@@ -17,4 +17,5 @@ I come from a software development background, and now I get to blend that with 
 - Data & Messaging: Kafka, RabbitMQ, Redis, PostgreSQL, Elasticsearch
 - Architecture: Microservices, Event-Driven Systems, Domain-Driven Design (DDD)
 - Reliability: SRE practices, Observability (Prometheus, Grafana)
+
 
