@@ -86,17 +86,6 @@ I'm deep into **AI and workflow automation**: multi-agent pipelines, LLM-powered
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=husamuddin&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husamuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-</div>
-
----
-
 ## 🧪 Side Projects
 
 > Things I build outside work. Where I go deep on technology I want to master before bringing it to production.
