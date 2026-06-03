@@ -69,12 +69,14 @@ I'm deep into **AI and workflow automation**: multi-agent pipelines, LLM-powered
 
 **Observability & Messaging**
 
-[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,rabbitmq,kafka&perline=8)](https://skillicons.dev)
 
 </div>
 
 <div align="center">
 
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
