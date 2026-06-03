@@ -1,5 +1,7 @@
 ## Hey, I'm Husamuddin 👋
 
+**[husamuddin.github.io](https://husamuddin.github.io)**
+
 Platform & Infrastructure Engineer based in **Dubai, UAE**. I build the systems that let engineering teams ship fast and stay in bed at night.
 
 I design cloud-native platforms end-to-end: GitOps pipelines, service meshes, secrets infrastructure, observability stacks, and the event-driven backends that run on top of them. My background in software development means I care about developer experience as much as the infra. I've been on both sides of the platform.
