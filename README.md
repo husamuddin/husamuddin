@@ -1,6 +1,6 @@
 ## Hey, I'm Husamuddin 👋
 
-**[husamuddin.github.io](https://husamuddin.github.io)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-husamuddin.github.io-4edea3?style=flat-square&logo=astro&logoColor=4edea3&labelColor=131314)](https://husamuddin.github.io)
 
 Platform & Infrastructure Engineer based in **Dubai, UAE**. I build the systems that let engineering teams ship fast and stay in bed at night.
 
